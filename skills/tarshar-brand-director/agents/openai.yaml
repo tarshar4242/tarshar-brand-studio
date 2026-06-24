@@ -1,0 +1,4 @@
+interface:
+  display_name: "小塔品牌導演"
+  short_description: "把內容轉成一致的品牌封面、知識圖卡與銷售頁視覺系統"
+  default_prompt: "使用 $tarshar-brand-director，先理解我的內容與受眾，再提出三套品牌視覺方向。"
