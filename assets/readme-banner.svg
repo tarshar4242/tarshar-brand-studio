@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
   <title id="title">Tarshar Brand Studio</title>
-  <desc id="desc">小塔品牌導演與小D靈感雷達的品牌視覺作業系統</desc>
+  <desc id="desc">TARA 品牌設計助理，說一句想法直接取得第一版</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#F5FFF8"/>
@@ -23,8 +23,8 @@
     <rect x="0" y="0" width="166" height="34" rx="17" fill="#DDF2E6"/>
     <text x="83" y="23" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2F8F62" letter-spacing="2">BRAND OPERATING SYSTEM</text>
     <text x="0" y="108" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="52" font-weight="800" fill="#173C32">Tarshar Brand Studio</text>
-    <text x="0" y="168" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="34" font-weight="700" fill="#2F8F62">小塔品牌導演 × 小D靈感雷達</text>
-    <text x="0" y="220" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="22" fill="#60766F">把課程、文章與教學想法，轉成可持續使用的品牌視覺系統。</text>
+    <text x="0" y="168" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="34" font-weight="700" fill="#2F8F62">TARA 品牌設計助理</text>
+    <text x="0" y="220" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="22" fill="#60766F">說一句想法，直接取得第一版；不滿意時再修改。</text>
     <g transform="translate(0 266)">
       <rect width="126" height="44" rx="22" fill="#FFFFFF" stroke="#CFE0D6"/>
       <text x="63" y="28" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="16" font-weight="700" fill="#173C32">品牌 DNA</text>
@@ -39,7 +39,7 @@
     <circle r="108" fill="#FFFFFF" stroke="#CFE0D6" stroke-width="2"/>
     <circle r="82" fill="#E5F5EB"/>
     <circle r="58" fill="url(#orb)"/>
-    <text x="0" y="-7" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="25" font-weight="800" fill="#FFFFFF">小塔</text>
-    <text x="0" y="24" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">品牌導演</text>
+    <text x="0" y="-7" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">TARA</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">直接做一版</text>
   </g>
 </svg>
